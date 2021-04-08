@@ -1,0 +1,78 @@
+---
+title: "READ.ME"
+author: Hiba Chaudhry 
+date: "2021-06-04"
+output: github_document
+---
+
+
+
+
+Abstract:
+
+Introduction:
+
+Methods:
+  Data Acquisition 
+
+Results:
+
+Discussion:
+
+Literature Cited:
+
+References:
+  Primary Literature
+  
+  Data sources 
+  
+  Software:
+ R Core Team (2020). R: A language and environment for statistical computing. R
+  Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+  
+  $platform
+[1] "x86_64-apple-darwin17.0"
+
+$arch
+[1] "x86_64"
+
+$os
+[1] "darwin17.0"
+
+$system
+[1] "x86_64, darwin17.0"
+
+$status
+[1] ""
+
+$major
+[1] "4"
+
+$minor
+[1] "0.3"
+
+$year
+[1] "2020"
+
+$month
+[1] "10"
+
+$day
+[1] "10"
+
+$`svn rev`
+[1] "79318"
+
+$language
+[1] "R"
+
+$version.string
+[1] "R version 4.0.3 (2020-10-10)"
+
+$nickname
+[1] "Bunny-Wunnies Freak Out"
+
+> 
+
+
+

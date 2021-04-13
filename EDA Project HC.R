@@ -4,6 +4,7 @@
 library(tidyverse)
 library(auk)
 
+if(!dir.exists("Data")) dir.create("Data")
 
 citation()
 

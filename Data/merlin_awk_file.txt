@@ -1,0 +1,74 @@
+
+BEGIN {
+  FS = OFS = "	"
+
+  
+  
+  
+  
+  
+}
+{
+  keep = 1
+
+  # filters
+  
+  
+  
+  
+  
+  if (keep == 1 && ($20 == "11")) {
+    keep = 1
+  } else {
+    keep = 0
+  }
+
+  
+  
+  
+  monthday = substr($28, 6, 5)
+  
+  if (keep == 1 && (monthday >= "05-01" && monthday <= "06-30")) {
+    keep = 1
+  } else {
+    keep = 0
+  }
+
+  
+  if (keep == 1 && ($29 >= "05:00" && $29 <= "19:00")) {
+    keep = 1
+  } else {
+    keep = 0
+  }
+
+  
+  
+  
+  
+  
+  if (keep == 1 && ($32 == "Stationary" || ($36 >= 0 && $36 <= 4))) {
+    keep = 1
+  } else {
+    keep = 0
+  }
+
+  
+  
+  if (keep == 1 && ($39 == 1)) {
+    keep = 1
+  } else {
+    keep = 0
+  }
+
+  
+
+  # keeps header
+  if (NR == 1) {
+    keep = 1
+  }
+
+  if (keep == 1) {
+    print $0
+  }
+}
+

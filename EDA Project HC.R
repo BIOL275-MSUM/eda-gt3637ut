@@ -3,6 +3,9 @@
 
 library(tidyverse)
 library(auk)
+library(sf)
+library(devtools)
+
 
 
 # filter ebird data -------------------------------------------------------
@@ -48,8 +51,23 @@ ebd <- read_ebd("Data/ebd_filtered_merlin.txt")
 smp <- read_sampling("Data/edaproj_filtered_smp.txt")
 
 
+# Making a map  -----------------------------------------------------------
+ebd_sf <- st_as_sf(ebd, coords=c("latitude","longitude"))
+smp_sf <- st_as_sf(smp, coords=c("latitude","longitude"))
+
+states <- map_data("state") %>% 
+  as_tibble() %>%
+  st_as_sf(coords=c("long", "lat")) %>%
+  print()
+ggplot(states)+
+  geom_sf()
+
+
+
 # citations ---------------------------------------------------------------
 
 citation()
 R.Version()
 RStudio.Version()
+GDAL/OGR contributors (2021). GDAL/OGR Geospatial Data Abstraction
+software Library. Open Source Geospatial Foundation. URL https://gdal.org

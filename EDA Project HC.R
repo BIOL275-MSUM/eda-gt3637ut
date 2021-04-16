@@ -69,5 +69,6 @@ ggplot(states)+
 citation()
 R.Version()
 RStudio.Version()
-GDAL/OGR contributors (2021). GDAL/OGR Geospatial Data Abstraction
-software Library. Open Source Geospatial Foundation. URL https://gdal.org
+
+# GDAL/OGR contributors (2021). GDAL/OGR Geospatial Data Abstraction
+# software Library. Open Source Geospatial Foundation. URL https://gdal.org

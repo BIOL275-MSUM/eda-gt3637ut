@@ -4,7 +4,7 @@
 library(tidyverse)
 library(auk)
 library(sf)
-library(devtools)
+library(rnaturalearth)
 
 
 
@@ -52,15 +52,23 @@ smp <- read_sampling("Data/edaproj_filtered_smp.txt")
 
 
 # Making a map  -----------------------------------------------------------
-ebd_sf <- st_as_sf(ebd, coords=c("latitude","longitude"))
-smp_sf <- st_as_sf(smp, coords=c("latitude","longitude"))
+ebd_sf <- st_as_sf(ebd, coords=c("longitude","latitude"), crs = 4326)
+smp_sf <- st_as_sf(smp, coords=c("longitude","latitude"), crs = 4326)
 
-states <- map_data("state") %>% 
-  as_tibble() %>%
-  st_as_sf(coords=c("long", "lat")) %>%
+states <- 
+  ne_states(
+    country = c("Canada", "United States of America"), 
+    returnclass = "sf"
+  ) %>%
   print()
-ggplot(states)+
-  geom_sf()
+
+states %>% 
+  ggplot() +
+  geom_sf() +
+  geom_sf(data = smp_sf, alpha = 0.3) +
+  geom_sf(data = ebd_sf, color = "green") +
+  coord_sf(xlim = c(-115,-92), ylim = c(41, 55.5))
+
 
 
 

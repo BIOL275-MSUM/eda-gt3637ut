@@ -10,7 +10,7 @@ Hiba Chaudhry & Dr. Merkord
 Biosciences Department, Minnesota State University Moorhead, 1104 7th
 Avenue South, Moorhead, MN 56563 USA
 
-Presented at the MSUM 23rd Online Student Acadmic Conference
+Presented at the MSUM 23rd Online Student Acadamic Conference
 
 Submit a survey for this presentation:
 <https://mnstate.co1.qualtrics.com/jfe/form/SV_eFMAwF72JZIoeSq>
@@ -71,7 +71,7 @@ are and which areas they prefer to nest in.
 
   - Black dots are spots where people looked for birds
 
-  - Green dots are the spots where the birds were founded
+  - Green dots are the spots where the birds were found
 
   - Not only do we want to know where Merlins are but we also must be
     aware of the places they are not present.
@@ -109,7 +109,7 @@ are and which areas they prefer to nest in.
         populated, not many Merlins will be found due to innumerable
         buildings and high noise level.
     
-    <img src="images/Merlin Hypotheses.png" width="497" height="338"/>
+    <img src="Images/Merlin Hypotheses.png" width="497" height="338"/>
 
   - To test all of these hypotheses, more data is needed. Data about
     people and vegetation. Try to see if there any patterns between

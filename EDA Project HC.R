@@ -78,5 +78,8 @@ citation()
 R.Version()
 RStudio.Version()
 
+#RStudio Team (2021). RStudio: Integrated Development Environment for R. RStudio, PBC,
+#Boston, MA URL http://www.rstudio.com/.
+
 # GDAL/OGR contributors (2021). GDAL/OGR Geospatial Data Abstraction
 # software Library. Open Source Geospatial Foundation. URL https://gdal.org

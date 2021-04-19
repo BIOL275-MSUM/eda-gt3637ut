@@ -3,7 +3,7 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, cache = TRUE)
+knitr::opts_chunk$set(results = FALSE, echo = FALSE, message=FALSE, warning=FALSE, cache = TRUE)
 ```
 
 <img src="https://www2.mnstate.edu/uploadedImages/Content/Marketing/logos/MSUM_Signature_Vert_Color.jpg" alt="MSUM logo" width="200" style="float:right"/>
@@ -41,7 +41,7 @@ of where they are and which areas they prefer to nest in.
 
 ## Introduction
 
-![](images/paste-2D52FEDB.png)
+<img src="Images/paste-2D52FEDB.png" width="500">
 
 -   Organism of interest is Merlin which is a small species of falcon from the Northern Hemisphere
 
@@ -64,7 +64,7 @@ of where they are and which areas they prefer to nest in.
 
 ## Results
 
-```{r}
+```{r, dpi= 300}
 library(tidyverse)
 library(auk)
 library(sf)
@@ -92,8 +92,6 @@ states %>%
   geom_sf(data = ebd_sf, color = "green") +
   coord_sf(xlim = c(-115,-92), ylim = c(41, 55.5))
 ```
-
--   This coding allowed me to create my map, showing Merlin abundance.
 
 -   Black dots are spots where people looked for birds
 

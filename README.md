@@ -3,7 +3,7 @@
 
 # Nesting Preferences of Merlins
 
-Presentation ID:
+Presentation ID: 4984
 
 Hiba Chaudhry & Dr. Merkord
 
@@ -109,7 +109,7 @@ are and which areas they prefer to nest in.
         populated, not many Merlins will be found due to innumerable
         buildings and high noise level.
     
-    <img src="Images/Merlin Hypotheses.png" width="497" height="338"/>
+    <img src="Images/Merlin Hypotheses.png" width="597" height="520"/>
 
   - To test all of these hypotheses, more data is needed. Data about
     people and vegetation. Try to see if there any patterns between

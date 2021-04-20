@@ -10,7 +10,7 @@ knitr::opts_chunk$set(results = FALSE, echo = FALSE, message=FALSE, warning=FALS
 
 # Nesting Preferences of Merlins 
 
-Presentation ID: 
+Presentation ID: 4984
 
 Hiba Chaudhry & Dr. Merkord
 
@@ -117,7 +117,7 @@ states %>%
 
     -   Merlins avoiding humans hypothesis says that if an area is too populated, not many Merlins will be found due to innumerable buildings and high noise level.
 
-    <img src="Images/Merlin Hypotheses.png" width="497" height="338"/>
+    <img src="Images/Merlin Hypotheses.png" width="597" height="520"/>
 
 -   To test all of these hypotheses, more data is needed. Data about people and vegetation. Try to see if there any patterns between variables like trees and Merlins and people.
 

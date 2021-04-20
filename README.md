@@ -40,7 +40,7 @@ are and which areas they prefer to nest in.
 <img src="Images/paste-2D52FEDB.png" width="500">
 
   - Organism of interest is Merlin which is a small species of falcon
-    from the Northern Hemisphere
+    from the Northern Hemisphere.
 
   - The question studied here is “are there are more Merlins nesting in
     urban areas when compared to rural areas”?
@@ -50,7 +50,7 @@ are and which areas they prefer to nest in.
     Merlins require open areas to hunt.
 
   - To test this hypothesis, a map was created showcasing the abundance
-    of Merlins in the region of Canada and United States of America
+    of Merlins in the region of Canada and United States of America.
 
 ## Methods
 
@@ -69,9 +69,9 @@ are and which areas they prefer to nest in.
 
 ![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
-  - Black dots are spots where people looked for birds
+  - Black dots are spots where people looked for birds.
 
-  - Green dots are the spots where the birds were found
+  - Green dots are the spots where the birds were found.
 
   - Not only do we want to know where Merlins are but we also must be
     aware of the places they are not present.
@@ -82,7 +82,7 @@ are and which areas they prefer to nest in.
 
   - The regions where green dots are clumped are cities which are
     comprised of more Conifers when compared to open land which have
-    shrubs and grasses and not a lot of conifer trees.
+    shrubs and grasses and not a lot of Conifer trees.
 
   - A lot of black means there weren’t many Merlins observed, which is
     what is shown in the South area of the map.
@@ -95,14 +95,15 @@ are and which areas they prefer to nest in.
     Sparrows, Pigeons.
 
   - Some of the different hypotheses that I came up with were called
-    nest availability hypothesis, food availability hypothesis and
-    Merlins avoiding human hypothesis.
+    “nest availability hypothesis”, f“ood availability hypothesis” and
+    “Merlins avoiding human hypothesis”.
     
-      - Nest availability hypothesis sates that there will be more nests
-        in the cities because there would be more Conifers present.
+      - Nest availability hypothesis states that there will be more
+        nests in urban areas because there would be more Conifers
+        present.
     
       - Food availability hypothesis present the concept that there will
-        be more Merlins observed in cities because there are more
+        be more Merlins observed in urabn areas because there are more
         smaller birds present.
     
       - Merlins avoiding humans hypothesis says that if an area is too
@@ -112,8 +113,8 @@ are and which areas they prefer to nest in.
     <img src="Images/Merlin Hypotheses.png" width="597" height="520"/>
 
   - To test all of these hypotheses, more data is needed. Data about
-    people and vegetation. Try to see if there any patterns between
-    variables like trees and Merlins and people.
+    people and vegetation. We have to see if there are any patterns
+    present between variables like trees, Merlins and people.
 
   - Step 1 of the project is completed which was to get a map showing
     Merlin abundance. The map serves as a tool to do more investigation

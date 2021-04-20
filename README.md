@@ -67,7 +67,9 @@ are and which areas they prefer to nest in.
 
 ## Results
 
-![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- --> Figure 1: Map
+displaying Merlin abundance throughout the regions of Canada and United
+States
 
   - Black dots are spots where people looked for birds.
 
@@ -90,9 +92,9 @@ are and which areas they prefer to nest in.
 ## Discussion
 
   - The green dots are clumped where cities are present. There are more
-    Conifers trees in the cities. More small birds take shelter in the
+    Conifer trees in the cities. More small birds take shelter in the
     Conifers. Merlins prey on small birds like Horned Larks, House
-    Sparrows, Pigeons.
+    Sparrows, Bohemian Waxwing.
 
   - Some of the different hypotheses that I came up with were called
     “nest availability hypothesis”, “food availability hypothesis” and
@@ -116,7 +118,7 @@ are and which areas they prefer to nest in.
     people and vegetation. We have to see if there are any patterns
     present between variables like trees, Merlins and people.
 
-  - Step 1 of the project is completed which was to get a map showing
+  - All of this work was just Step 1, which was to get a map showing
     Merlin abundance. The map serves as a tool to do more investigation
     on Merlins.
     
@@ -142,7 +144,7 @@ are and which areas they prefer to nest in.
     Version: EBD\_relFeb-2021. Cornell Lab of Ornithology, Ithaca, New
     York. Feb 2021.
 
-  - I used R Version 4.0.5 (R Core Team 2021)
+  - R Version 4.0.5 (R Core Team 2021) was used.
 
   - Software: R Core Team (2020). R: A language and environment for
     statistical computing. R Foundation for Statistical Computing,

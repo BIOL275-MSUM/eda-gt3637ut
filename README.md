@@ -147,12 +147,3 @@ are and which areas they prefer to nest in.
   - Software: R Core Team (2020). R: A language and environment for
     statistical computing. R Foundation for Statistical Computing,
     Vienna, Austria. URL <https://www.R-project.org/>.
-
-Ask him about the code in the results section and that you don’t have
-any paras
-
-Ask him if that is what you should talk about in your discussion
-
-Ask him if it would be a good idea to draw that hypothesis diagram
-
-Citations ok? Tips/tricks to do good.

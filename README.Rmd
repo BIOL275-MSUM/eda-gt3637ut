@@ -103,17 +103,17 @@ states %>%
 
 -   The regions where green dots are clumped are cities which are comprised of more Conifers when compared to open land which have shrubs and grasses and not a lot of Conifer trees.
 
--   A lot of black means there weren't many Merlins observed, which is what is shown in the South area of the map.
+-   A lot of black means there weren't many Merlins observed, which is what is shown in the south area of the map.
 
 ## Discussion
 
 -   The green dots are clumped where cities are present. There are more Conifers trees in the cities. More small birds take shelter in the Conifers. Merlins prey on small birds like Horned Larks, House Sparrows, Pigeons.
 
--   Some of the different hypotheses that I came up with were called "nest availability hypothesis", f"ood availability hypothesis" and "Merlins avoiding human hypothesis".
+-   Some of the different hypotheses that I came up with were called "nest availability hypothesis", "food availability hypothesis" and "Merlins avoiding human hypothesis".
 
     -   Nest availability hypothesis states that there will be more nests in urban areas because there would be more Conifers present.
 
-    -   Food availability hypothesis present the concept that there will be more Merlins observed in urabn areas because there are more smaller birds present.
+    -   Food availability hypothesis present the concept that there will be more Merlins observed in urban areas because there are more smaller birds present.
 
     -   Merlins avoiding humans hypothesis says that if an area is too populated, not many Merlins will be found due to innumerable buildings and high noise level.
 

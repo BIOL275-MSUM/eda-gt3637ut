@@ -85,7 +85,7 @@ are and which areas they prefer to nest in.
     shrubs and grasses and not a lot of Conifer trees.
 
   - A lot of black means there weren’t many Merlins observed, which is
-    what is shown in the South area of the map.
+    what is shown in the south area of the map.
 
 ## Discussion
 
@@ -95,7 +95,7 @@ are and which areas they prefer to nest in.
     Sparrows, Pigeons.
 
   - Some of the different hypotheses that I came up with were called
-    “nest availability hypothesis”, f“ood availability hypothesis” and
+    “nest availability hypothesis”, “food availability hypothesis” and
     “Merlins avoiding human hypothesis”.
     
       - Nest availability hypothesis states that there will be more
@@ -103,7 +103,7 @@ are and which areas they prefer to nest in.
         present.
     
       - Food availability hypothesis present the concept that there will
-        be more Merlins observed in urabn areas because there are more
+        be more Merlins observed in urban areas because there are more
         smaller birds present.
     
       - Merlins avoiding humans hypothesis says that if an area is too
